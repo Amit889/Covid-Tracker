@@ -121,9 +121,7 @@ Google Fonts : https://fonts.google.com/
 
     @Override
     public void onLoaderReset(Loader<List<CountryData>> loader) {
-        //Log.d(QUAKE_APP,"hi i am in onLoadReset Method");
-        // Loader reset, so we can clear out our existing data.
-        //earthQuakeAdapter.clear();
+
     }
 
     @Override
